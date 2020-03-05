@@ -12,7 +12,7 @@ def _download_raw_dataset():
                                         unzip=False)
 
     return print("Raw dataset downloaded in data" + "\n")
-
+    
 
 def main():
     """ Download the datasets already prepared for this project.
