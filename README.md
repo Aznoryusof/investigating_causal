@@ -1,5 +1,5 @@
 # Investigating Causal Relationships
-This repository investigates different approaches to uncover causal factors behind employees' staying intentions, provided as Jupyter Notebooks.
+This repository investigates the different modern approaches available to uncover causal factors behind employees' staying intentions within an organisation, provided as Jupyter Notebooks.
 
 #### -- Project Status: [Active]
 
@@ -9,6 +9,12 @@ The purpose of this project is to study in detail the various statistical method
 ### Methods Used
 1) Structural Equation Modelling [Link to Jupyter notebook]
 2) Bayesian Networks [Link to Jupyter notebook]
+
+|Method Used     |  Link to Jupyter Notebook   |   References   | 
+|----------------|-----------------------------|----------------|
+|Structural Equation Modelling| (Link)  |
+|Bayesian Networks| (Link)  |
+
 
 ### Technologies
 * Python
