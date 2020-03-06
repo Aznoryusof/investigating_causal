@@ -7,3 +7,8 @@ jupyter_console>=5.1
 jupyter_core>=4.3
 pandas
 numpy
+
+# R packages
+# conda install -c r r-irkernel
+# r-essentials
+# r-lavaan
