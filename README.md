@@ -1,5 +1,11 @@
-# investigating_causal
-This repository investigates different approaches to uncover causal factors behind employees' staying intentions
+# Investigating Causal Relationships
+This repository investigates different approaches to uncover causal factors behind employees' staying intentions, provided as Jupyter Notebooks.
+
+#### -- Project Status: [Active]
+
+## Project Intro/Objective
+The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+
 
 # To implement:
 1) Structural Equation Modelling
