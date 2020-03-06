@@ -1,2 +1,9 @@
-google_drive_downloader # use pip install
+# google_drive_downloader # use pip install
+# semopy # use pip install
 requests
+jupyter>=1.0
+jupyter_client>=5.0
+jupyter_console>=5.1
+jupyter_core>=4.3
+pandas
+numpy
