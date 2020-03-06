@@ -15,8 +15,9 @@ The purpose of this project is to study in detail the various statistical method
 
 ### Technologies
 * Python
+* R
 * Pandas, Jupyter
-* Semopy
+* Levaan, semPlot
 * CausalNex
 
 ## Project Description
