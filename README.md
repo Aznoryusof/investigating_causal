@@ -1,7 +1,7 @@
 # Investigating Causal Relationships
 This repository investigates the different modern approaches available to uncover causal factors behind employees' staying intentions within an organisation, provided as Jupyter Notebooks.
 
-#### -- Project Status: [Active]
+#### -- Project Status: [On Hold]
 
 ## Project Intro/Objective
 The purpose of this project is to study in detail the various statistical methods and APIs available on identifying causal relationships, and serves as a quickstart guide to anyone trying to better understand how to apply these methods on their dataset.
@@ -55,8 +55,8 @@ python src\make_dataset.py
 
 # References:
 1) Structural Equation Modelling
-https://www.kdnuggets.com/2017/03/structural-equation-modeling.html
-https://www.youtube.com/watch?v=Flqbo8J3li4
+   - https://www.kdnuggets.com/2017/03/structural-equation-modeling.html
+   - https://www.youtube.com/watch?v=Flqbo8J3li4
 
 2) CausalNex API 
-https://causalnex.readthedocs.io/en/latest/
+   - https://causalnex.readthedocs.io/en/latest/
