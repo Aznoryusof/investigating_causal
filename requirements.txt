@@ -11,4 +11,3 @@ numpy
 # R packages
 # conda install -c r r-irkernel
 # r-essentials
-# r-lavaan
