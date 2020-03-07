@@ -56,6 +56,7 @@ python src\make_dataset.py
 # References:
 1) Structural Equation Modelling
 https://www.kdnuggets.com/2017/03/structural-equation-modeling.html
+https://www.youtube.com/watch?v=Flqbo8J3li4
 
 2) CausalNex API 
 https://causalnex.readthedocs.io/en/latest/
